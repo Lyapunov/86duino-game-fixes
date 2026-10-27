@@ -83,6 +83,7 @@ To achieve these, the following ingredients were crucial:
 Here is the list of the components to build the machine:
 
 |**Name** | **Price** | **Notes**|
+| --- | --- | --- |
 |86Duino ONE (Vortex86EX Processor, 300MHz 32-bit x86, 128MB DDR) | $106.00 | From the webshop of https://icop-shop.com|
 |86Duino One Cable Set | $10.00 | From the webshop of https://icop-shop.com|
 |MINIPCIE-9160-S | $20.00 | From the webshop of https://icop-shop.com|
