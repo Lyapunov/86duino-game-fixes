@@ -80,7 +80,8 @@ To achieve these, the following ingredients were crucial:
 
 ## My hardware
 
-Here is the list of the components to build the machine:
+Here is the list of the components to build the machine (these are late
+2026 prices):
 
 |**Name** | **Price** | **Notes**|
 | --- | --- | --- |
