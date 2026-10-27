@@ -117,6 +117,7 @@ is a small miracle it works together with the GHOSTFIX.COM workaround,
 I didn't want to push the matter further, I didn't want to tempt god.
 
 |Name|Directory|BootMode|Success|Sound|Issues|
+| --- | --- | --- | --- | --- | --- |
 |Disney's Aladdin|ALADDIN|S|Complete|SoundBlaster|Claude patched them|
 |The Elder Scrolls: Arena|ARENA|E|Almost Complete|No Sound|Claude patched the EMS problem, but it has no sound|
 |Battle Chess|BCHESS|D|Complete|Speaker|-|
@@ -173,6 +174,7 @@ I just enjoy them with PC Speaker. It is a matter of preference and in
 this case I'm completely satisfied with the music the buzzer creates.
 
 |Name|Directory|BootMode|Success|Sound|Issues|
+| --- | --- | --- | --- | --- | --- |
 |The Castle of Dr. Brain|DRBRAIN1|D|Complete|Speaker|-|
 |The Island of Dr. Brain|DRBRAIN2|D|Complete|Speaker|-|
 |EcoQuest: The Search for Cetus|ECO1|D|Complete|Speaker|-|
